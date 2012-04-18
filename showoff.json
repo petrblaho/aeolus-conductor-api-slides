@@ -1,1 +1,4 @@
-{ "name": "Aeolus Conductor API", "sections": [ {"section":"providers"} ]}
+{ "name": "Aeolus Conductor API", "sections": [
+  {"section":"intro"},
+  {"section":"providers"}
+]}
